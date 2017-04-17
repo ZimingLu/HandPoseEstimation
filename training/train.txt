@@ -1,3 +1,6 @@
-h5data/train_0.h5
-h5data/train_1.h5
-h5data/train_2.h5
+/home/gtayx/handPose/NYUdata/PalmRandomWithNoise/train_normal_1.h5
+/home/gtayx/handPose/NYUdata/PalmRandomWithNoise/train_normal_2.h5
+/home/gtayx/handPose/NYUdata/PalmRandomWithNoise/train_normal_3.h5
+/home/gtayx/handPose/NYUdata/PalmRandomWithNoise/train_normal_4.h5
+
+
