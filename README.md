@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Model-based Deep Hand Pose Estimation
 This repository is the released code of our IJCAI 2016 [paper](http://xingyizhou.xyz/zhou2016model.pdf) for estimating hand pose from depth image.
 
@@ -34,3 +35,6 @@ Please cite DeepModel in your publication if it helps your research:
         title = {Model-based Deep Hand Pose Estimation},
         year = {2016}
     }
+=======
+# HandPoseEstimation
+>>>>>>> 197139b57d1d052b2b37bb9c4e27d37bfc3a24e5
